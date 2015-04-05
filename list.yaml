@@ -1307,8 +1307,9 @@
 - name: "Pagegen"
   license: "GPL"  # mentioned inside download
   website: "http://pagegen.phnd.net/"
-  language: "App"
-
+  language: "Python"
+  github: "oliverfields/pagegen_v2"
+  description: "Every page is a file. SEO friendly, Sitemap and RSS feed. reStructuredText markup and hooks for post and pre processing."
 
 - name: "Pagen"
   github: "jawerty/pagen"
